@@ -1,10 +1,10 @@
 const { Schema } = require('mongoose')
 
 const userSchema = new Schema({
-    username: { type: String, required: true, unique: true },
-    email: { type: String, required: true, unique: true },
+    username: { type: String, required: true },
+    email: { type: String, required: true },
     password: { type: String, required: true },
-    watchlist: { type: Schema.Types.ObjectId, ref: 'Movie' }, 
+    watchlist: [{ type: Schema.Types.ObjectId, ref: 'Movie'}], 
 }, 
 { timestamps: true })
 
