@@ -12,7 +12,7 @@ const main = async () => {
                 releaseYear: 2015,
                 description: "In a post-apocalyptic wasteland, Max teams up with Furiosa to escape a tyrant.",
                 rating: "R",
-                posterImage: "https://upload.wikimedia.org/wikipedia/en/c/c7/Mad_Max_Fury_Road.jpg"
+                posterImage: "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg"
             },
             {
                 title: "Die Hard",
