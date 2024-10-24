@@ -9,3 +9,7 @@ Discover your next favorite film with Reel Picks, the ultimate movie recommendat
 * Frontend: HTML for structure, CSS for styling, and JavaScript for DOM manipulation.
 * Backend: Node.js with Express for handling API requests.
 * Database: MongoDB for user data and movie details.
+
+
+
+![Untitled Diagram-Page-4 drawio](https://github.com/user-attachments/assets/1600531b-18de-4528-8bfd-df3be2b9687b)
