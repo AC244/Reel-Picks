@@ -19,13 +19,13 @@ const main = async () => {
         { name: 'Adventure', description: 'Exciting journeys and explorations often featuring a hero.' },
         { name: 'Musical', description: 'Films that incorporate songs and dance as a central element.' },
         { name: 'Western', description: 'Films set in the American West, often featuring cowboys and outlaws.' },
-        { name: 'Biographical', description: 'Dramatizations of real-life stories and figures.' },
         { name: 'Crime', description: 'Films that focus on criminal activities and their consequences.' },
         { name: 'Family', description: 'Films suitable for all ages, often featuring family themes.' },
         { name: 'War', description: 'Films that depict warfare and its impact on individuals and societies.' },
         { name: 'Sports', description: 'Stories centered around athletic competition and sports culture.' },
-        { name: 'Historical', description: 'Films based on historical events and figures.' },
-        { name: 'Superhero', description: 'Films featuring characters with superhuman abilities and powers.' }
+        { name: 'Superhero', description: 'Films featuring characters with superhuman abilities and powers.' },
+        { name: 'Holiday', description: 'Films that revolve around festive occasions, celebrating themes of family, togetherness, and the spirit of the season.' }
+
     ]
 
     await Genre.insertMany(genres)
