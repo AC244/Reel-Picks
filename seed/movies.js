@@ -28,7 +28,7 @@ const main = async () => {
                 releaseYear: 2014,
                 description: "An ex-hitman comes out of retirement to track down the gangsters that took everything from him.",
                 rating: "R",
-                posterImage: "https://static.wikia.nocookie.net/john-wick8561/images/d/d5/JW1_final_poster_release.jpg/revision/latest?cb=20231215021818"
+                posterImage: "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UX1000_.jpg"
             },
             {
                 title: "The Dark Knight",
